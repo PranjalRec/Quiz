@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962231306247",
+    "project_id": "quiz-18b06",
+    "storage_bucket": "quiz-18b06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962231306247:android:358ab284efac3cab2e42a2",
+        "android_client_info": {
+          "package_name": "com.pranjal.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962231306247-f5ghe0hqar3bja0t5bi4jde351sov8ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6n5iDkUa6eZUu8gT3SNCmfmW0Box-88I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962231306247-f5ghe0hqar3bja0t5bi4jde351sov8ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
